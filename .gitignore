@@ -1,0 +1,6 @@
+.private/
+amp-bridge.private.json
+credentials.json
+config.json
+bridge.config.json
+.amp/in/
